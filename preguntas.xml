@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<assessmentItems>
+	<assessmentItem complexity="2" subject="Web">
+		<itemBody>
+			<p>Tag HTML para a&#xF1;adir un formulario</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				FORM
+			</value>
+		</correctResponse>
+	</assessmentItem>
+		<assessmentItem complexity="4" subject="Internet">
+		<itemBody>
+			<p>Este protocolo acabar&#xE1; funcionando
+			incluso entre dos latas unidas por un cord&#xF3;n</p>
+		</itemBody>
+		<correctResponse>
+			<value>
+				TCP/IP
+			</value>
+		</correctResponse>
+	</assessmentItem>
+<assessmentItem complexity="2" subject="Web"><itemBody><p>PruebaXML</p></itemBody><correctResponse><value>SEEEp</value></correctResponse></assessmentItem><assessmentItem complexity="3" subject="Web"><itemBody><p>Prueba esperemos que funcional de AJAX</p></itemBody><correctResponse><value>AJAJAJAJAXX</value></correctResponse></assessmentItem><assessmentItem complexity="1" subject="Web"><itemBody><p>FROGA</p></itemBody><correctResponse><value>AGORF</value></correctResponse></assessmentItem><assessmentItem complexity="1" subject="Web"><itemBody><p>FROGA</p></itemBody><correctResponse><value>AGORF</value></correctResponse></assessmentItem><assessmentItem complexity="1" subject="Web"><itemBody><p>A ver qu&#xE9; tal ahora</p></itemBody><correctResponse><value>Bueno, no nos quejaremos</value></correctResponse></assessmentItem><assessmentItem complexity="1" subject="Web"><itemBody><p>bu</p></itemBody><correctResponse><value>bu</value></correctResponse></assessmentItem><assessmentItem complexity="2" subject="Web"><itemBody><p>Funcionar&#xE1; lo de sesiones?</p></itemBody><correctResponse><value>Solo as&#xED; lo podremos saber</value></correctResponse></assessmentItem></assessmentItems>
